@@ -1,56 +1,62 @@
-<div dir="rtl">
-
 <p align="center"><img src="images/cover.png" alt="Brief Quest" width="100%"></p>
 
 <h1 align="center">🎮 Brief Quest</h1>
-<p align="center"><b>مش لاقي بريف تشتغل عليه؟ لِف العجلة.</b><br>بريفات مصرية وسعودية وخليجية للمصممين، مكتوبة زي اللي بتيجي من الـ Client بالظبط.</p>
 
 <p align="center">
-  <a href="https://github.com/ahmedotaota/brief-quest-download/releases/latest/download/BriefQuest-Mac.dmg"><b>⬇️ تحميل للماك</b></a>
+  <b>No brief to work on? Spin the wheel.</b><br>
+  Real-world design briefs from Egypt, Saudi Arabia and the Gulf — written exactly like the ones clients send.
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmedotaota/brief-quest-download/releases/latest/download/BriefQuest-Mac.dmg"><b>⬇️ Download for macOS</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/ahmedotaota/brief-quest-download/releases/latest/download/BriefQuest-Windows-Setup.exe"><b>⬇️ تحميل للويندوز</b></a>
+  <a href="https://github.com/ahmedotaota/brief-quest-download/releases/latest/download/BriefQuest-Windows-Setup.exe"><b>⬇️ Download for Windows</b></a>
 </p>
 
 ---
 
-## البرنامج بيعمل إيه؟
-- 🎡 **عجلة بتلف** وتختارلك بريف من 8 مجالات: أكل، مشروبات، Fashion، Tech، فلوس، عقارات، جمال، مواسم.
-- 🌍 **3 عوالم:** مصر، السعودية، الإمارات والكويت. كل بريف بلهجة بلده.
-- 📋 **بريف كامل:** الـ Objective، والـ Target Audience، والـ Insight، والـ Key Message، والـ Tone of Voice، والمطلوب منك بالمقاسات.
-- 🧠 **Pro Tips** عن الـ Layout والـ Hierarchy والـ Composition والـ Typography والـ AI في التصميم.
-- ⭐ **3 مستويات صعوبة**، وتحدي إضافي، وعملات لكل بريف تخلّصه.
-- 📣 **شارك شغلك** مع اوطه وخد رأيه.
+## What is it?
+
+Brief Quest is a free practice app for designers who are stuck waiting for the "right" brief. Spin the wheel, get a complete brief, and start designing — no client needed.
+
+- 🎡 **Spin the wheel** to get a brief from 8 categories: Food, Drinks, Fashion, Tech, Finance, Real Estate, Beauty, Seasonal.
+- 🌍 **3 worlds:** Egypt, Saudi Arabia, and the UAE & Kuwait — each brief written in its local dialect and culture.
+- 📋 **A complete brief:** Objective, Target Audience, Insight, Key Message, Tone of Voice, Mandatories, and Deliverables with exact sizes.
+- ⭐ **3 difficulty levels** plus a bonus challenge on every brief.
+- 🧠 **Pro Tips** on Layout, Hierarchy, Composition, Typography, Color, Social Media and AI in design.
+- 🪙 **Earn coins** for every brief you finish, and share your work to get feedback.
+- 🕹️ Retro pixel-art style, 8-bit music, and a little mascot to keep you company.
+
+> The app interface is in Arabic.
 
 <p align="center"><img src="images/post.png" alt="Brief Quest" width="420"></p>
 
-## التسطيب
+## Installation
 
-### 🍎 ماك (أي جهاز ماك، قديم أو جديد)
-1. حمّل **BriefQuest-Mac.dmg** وافتحه.
-2. اسحب **Brief Quest** لفولدر **Applications**.
-3. **أول مرة بس:** كليك يمين على البرنامج ← **Open** ← **Open** تاني.
-   (الماك بيطلّع الرسالة دي لأي برنامج مش من الـ App Store.)
+### 🍎 macOS (Apple Silicon & Intel)
+1. Download **BriefQuest-Mac.dmg** and open it.
+2. Drag **Brief Quest** into your **Applications** folder.
+3. **First launch only:** right-click the app → **Open** → **Open**.
+   macOS shows this prompt for apps distributed outside the App Store.
 
-### 🪟 ويندوز
-1. حمّل **BriefQuest-Windows-Setup.exe** ودوس عليه دبل كليك.
-2. لو ظهرت شاشة زرقا: **More info** ← **Run anyway**.
-3. البرنامج بيتسطّب لوحده ويعمل أيقونة على الديسكتوب.
+### 🪟 Windows
+1. Download **BriefQuest-Windows-Setup.exe** and double-click it.
+2. If Windows SmartScreen appears: **More info** → **Run anyway**.
+3. The app installs automatically and adds a desktop shortcut.
 
-## ⚠️ مهم: التحميل الرسمي من هنا بس
-النسخة الرسمية من Brief Quest موجودة **في الصفحة دي بس**. لو لقيت البرنامج في أي مكان تاني، ما تحمّلوش.
-تقدر تتأكد إن الملف هو الأصلي من بصمته (SHA-256) المكتوبة في صفحة الـ Release.
+## ⚠️ Official downloads only
 
-## تواصل مع اوطه
-<p>
-  <a href="https://www.facebook.com/ahmedibrahem.ali">Facebook</a> ·
-  <a href="https://www.instagram.com/ahmed_ota/">Instagram</a> ·
-  <a href="https://www.behance.net/ahmedota">Behance</a>
-</p>
+The official Brief Quest builds are published **only on this page**. If you find the app anywhere else, don't download it.
+You can verify your download against the SHA-256 checksums listed on each [release](https://github.com/ahmedotaota/brief-quest-download/releases).
 
-ابعتلي شغلك على أي بريف واعملي Mention، وهقولك رأيي 👀 &nbsp; <code>#BriefQuest</code>
+## Connect
+
+Made by **Ahmed Ota** — Art Director.
+
+[Facebook](https://www.facebook.com/ahmedibrahem.ali) · [Instagram](https://www.instagram.com/ahmed_ota/) · [Behance](https://www.behance.net/ahmedota)
+
+Finished a brief? Post your work, tag me, and use **#BriefQuest** — I'd love to see it.
 
 ---
 
-<p align="center"><sub>© 2026 Ahmed Ota — كل الحقوق محفوظة. البرنامج مجاني للاستخدام الشخصي والتمرين. ممنوع إعادة نشره أو بيعه أو تعديله ونشره باسم حد تاني.<br>كل الـ Brands في البرنامج وهمية ومعمولة للتمرين بس.</sub></p>
-
-</div>
+<p align="center"><sub>© 2026 Ahmed Ota. All rights reserved. Free for personal use and practice — see <a href="LICENSE">LICENSE</a>.<br>All brands inside the app are fictional and created for practice only.</sub></p>
