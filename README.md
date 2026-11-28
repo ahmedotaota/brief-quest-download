@@ -11,6 +11,8 @@
   <a href="https://github.com/ahmedotaota/brief-quest-download/releases/latest/download/BriefQuest-Mac.dmg"><b>⬇️ Download for macOS</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/ahmedotaota/brief-quest-download/releases/latest/download/BriefQuest-Windows-Setup.exe"><b>⬇️ Download for Windows</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://ahmedotaota.github.io/briefquest/"><b>🌐 Play in your browser</b></a>
 </p>
 
 ---
@@ -24,6 +26,7 @@ Brief Quest is a free practice app for designers who are stuck waiting for the "
 - 📋 **A complete brief:** Objective, Target Audience, Insight, Key Message, Tone of Voice, Mandatories, and Deliverables with exact sizes.
 - ⭐ **3 difficulty levels** plus a bonus challenge on every brief.
 - 🧠 **Pro Tips** on Layout, Hierarchy, Composition, Typography, Color, Social Media and AI in design.
+- 🕹️ **Design Arcade:** 6 hands-on games — Hierarchy, Contrast Lab (WCAG), Brief Decoder, Kerning Pro, Color Match and Spot the Mistake — with XP and ranks.
 - 🪙 **Earn coins** for every brief you finish, and share your work to get feedback.
 - 🕹️ Retro pixel-art style, 8-bit music, and a little mascot to keep you company.
 
@@ -36,11 +39,15 @@ Brief Quest is a free practice app for designers who are stuck waiting for the "
 ### 🍎 macOS (Apple Silicon & Intel)
 1. Download **BriefQuest-Mac.dmg** and open it.
 2. Drag **Brief Quest** into your **Applications** folder.
-3. **First launch only:** right-click the app → **Open** → **Open**.
+3. **First launch only:** open the app once and close the warning, then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
    macOS shows this prompt for apps distributed outside the App Store.
+4. If macOS says the app is "damaged", open **Terminal** and run:
+   ```
+   xattr -cr "/Applications/Brief Quest.app"
+   ```
 
 ### 🪟 Windows
-1. Download **BriefQuest-Windows-Setup.exe** and double-click it.
+1. Download **BriefQuest-Windows-Setup.exe** (if your browser warns you, choose **Keep**) and double-click it.
 2. If Windows SmartScreen appears: **More info** → **Run anyway**.
 3. The app installs automatically and adds a desktop shortcut.
 
